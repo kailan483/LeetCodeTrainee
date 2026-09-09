@@ -1,0 +1,1 @@
+add_executable(K-DistantIndices cpp/main.cpp)
